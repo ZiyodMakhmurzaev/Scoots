@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'LDR';
+    src: url(../fonts/LexendDeca-Regular.ttf);
+}
+@font-face {
+    font-family: 'SMR';
+    src: url(../fonts/SpaceMono-Regular.ttf);
+}
+@font-face {
+    font-family: 'SMB';
+    src: url(../fonts/SpaceMono-Bold.ttf);
+}
